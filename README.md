@@ -2,18 +2,20 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
-
+What is the problem? And where is the challenge?
+The problem is print Square in C language.
 ## Description
-TODO - How have you solved the problem?
+How have you solved the problem?
+We solved this using atoi , write and loops.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
-
+How to install your project? npm install? make? make re?
+You can get project with git pull request.
 ## Usage
-TODO - How does it work?
+How does it work?
+You must install required library compile c code.
 ```
-./my_project argument1 argument2
+./my_project ex00 
 ```
 
 ### The Core Team
