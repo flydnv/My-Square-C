@@ -14,7 +14,7 @@ TODO - How to install your project? npm install? make? make re?
 ## Usage
 TODO - How does it work?
 ```
-./my_project argument1 argument2
+./my_project my_square.c qwasar_my_square
 ```
 
 ### The Core Team
