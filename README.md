@@ -6,16 +6,15 @@ What is the problem? And where is the challenge?
 The problem is print Square in C language.
 ## Description
 How have you solved the problem?
-We solved this using atoi , write and loops.
+We solved this using 
 
 ## Installation
-How to install your project? npm install? make? make re?
-You can get project with git pull request.
+TODO - How to install your project? npm install? make? make re?
+
 ## Usage
-How does it work?
-You must install required library compile c code.
+TODO - How does it work?
 ```
-./my_project ex00 
+./my_project argument1 argument2
 ```
 
 ### The Core Team
